@@ -17,10 +17,15 @@ brew install leiningen
 You can run using the go.sh or with lein.
 
 1) Run using one of the methods below
+
 2) Enter desired time in HH:MM format
+
 3) Hit enter
+
 4) Observe the analog equivilant of the entered time
+
 5) ???
+
 6) Profit
 
 Using go.sh
